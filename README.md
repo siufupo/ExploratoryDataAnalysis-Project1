@@ -2,7 +2,7 @@
 
 This repo is for the coursera course Exploratory Data Analysis, project 1.
 
-There are 4 .R scripts plus 4 corresponding png charts.
+There are 4 .R scripts plus 4 corresponding .png charts.
 
 In the 4 scripts, the top part until png(..) are identical, only the plots are different, this is required by the instructor. 
 
